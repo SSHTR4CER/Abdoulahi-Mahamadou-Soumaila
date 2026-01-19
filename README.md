@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# Abdoulahi-Mahamadou-Soumaila
+Portfolio de cybersécurité avec certifications et CTF reports
+>>>>>>> 93b329b960ac6a4dfa9fa9899287c75640cac6da
